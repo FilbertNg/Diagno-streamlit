@@ -1,6 +1,9 @@
 import streamlit as st
 from backend_preprocessing import preprocess_input, predict
 import pandas as pd
+import nltk
+nltk.download('punkt')
+
 
 # Page config
 st.set_page_config(

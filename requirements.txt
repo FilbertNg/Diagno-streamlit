@@ -2,10 +2,5 @@ tensorflow
 numpy
 pandas
 nltk
-json
-pickle
-re
 matplotlib
 seaborn
-textwrap
-pathlib

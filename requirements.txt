@@ -2,11 +2,9 @@ tensorflow
 numpy
 pandas
 nltk
-tkinter
 json
 pickle
 re
-subprocess
 matplotlib
 seaborn
 textwrap
